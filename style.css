@@ -1,0 +1,67 @@
+body {
+  background-color: #ffb763;
+  display: flex;
+  justify-content: center;
+  margin: none;
+}
+.card {
+  background-color: #ffffff;
+  padding-top: 30px;
+  border-radius: 10px;
+  padding-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  font-family: "Roboto", sans-serif;
+}
+.box {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.boxx {
+  display: flex;
+  margin-left: 30%;
+
+  justify-content: space-between;
+}
+.dog {
+  margin-top: 30px;
+}
+.boxxx {
+  margin-top: 20px;
+  margin-left: 20px;
+  display: flex;
+  gap: 10px;
+}
+.boxxxx {
+  display: flex;
+  justify-content: space-between;
+}
+.svgt {
+  margin-top: 18px;
+  margin-right: 20px;
+}
+h3 {
+  size: 16px;
+  margin-left: 5%;
+}
+.blue {
+  background-color: #1fa1ff;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+}
+.sghm {
+  margin-right: 20px;
+  margin-top: 30px;
+}
+.bluee {
+  margin-left: 5%;
+}
+p {
+  margin-left: 5%;
+  font-size: 16px;
+  font-weight: 400;
+}
